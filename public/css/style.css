@@ -664,12 +664,13 @@ label {
 }
 
 .custom {
-  background: url('../img/background1.jpeg');
-  background-size: cover;
-  margin-top: 5rem;
+  background: url(../img/background1.jpeg) no-repeat;
   color: white;
-  text-align: center; 
-  padding: 15rem;
+  text-align: center;
+  padding: 9rem;
+  background-repeat: round;
+  background-size: cover;
+  min-height: 100vh;
 }
 
 .custom-footer {

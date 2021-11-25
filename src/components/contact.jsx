@@ -195,8 +195,8 @@ export const Contact = props => {
               controlId="formBasicPassword"
               style={{ marginBottom: "2rem" }}
             >
-              <Form.Label>Phonenumber</Form.Label>
-              <Form.Control type="text" placeholder="phonenumber" />
+              <Form.Label>Phone number</Form.Label>
+              <Form.Control type="text" placeholder="Enter phone number" />
             </Form.Group>
             <Modal.Footer>
               <Button variant="secondary" onClick={handleClose}>
