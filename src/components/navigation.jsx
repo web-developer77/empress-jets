@@ -18,7 +18,6 @@ export const Navigation = (props) => {
           </button> */}
           <a className='navbar-brand page-scroll' href='#page-top'>
           <div><img src="img/logo.png" className="logo-style"/></div>
-            Empress jets
           </a>{' '}
         </div>
 
